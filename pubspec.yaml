@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.15
+  shelf: ^1.4.1
+  shelf_static: ^1.1.2
